@@ -1,0 +1,12 @@
+#mae{ height:%; animation-name: mae; animation-duration: 4s; animation-iteration-count: infinite; margin-top: 0px; }
+
+@keyframes mae { from {box-shadow: 1px 1px 50px rgb(191, 200, 12);} to {box-shadow: 1px 1px 50px rgb(27, 110, 4);} }
+
+.titulo{ font-family: 'Pacifico', cursive; font-size: 420%; color: aliceblue; margin-bottom: 5px; margin: 0; padding: 0; }
+
+body{ text-align: center; background-image: url(1.gif); background-size: auto; width: 100%; margin: 0; padding: 0; }
+
+footer{ width: 100%; padding: 10px; display: flex; justify-content: center; align-items: center; background: #ed5a0e; color: #ffffff; box-sizing: border-box; }
+
+h3{ margin: 0; padding: 0; font-size: 30px; color: #ffffff; }
+
